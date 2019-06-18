@@ -410,22 +410,22 @@
           <a class="nav-link" href="#">Home </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#about">About US</a>
+          <a class="nav-link" data-target=".navbar-collapse" href="#about">About US</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#services">Services</a>
+          <a class="nav-link" data-target=".navbar-collapse" href="#services">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="#team">Our Team</a>
+          <a class="nav-link " data-target=".navbar-collapse" href="#team">Our Team</a>
         </li>
         <li class="nav-item">
-           <a class="nav-link " href="#price">Price Plans</a> </a>
+           <a class="nav-link " data-target=".navbar-collapse" href="#price">Price Plans</a>
         </li>
         <li class="nav-item">
-                <a class="nav-link " href="#testimonials">Testimonials</a> </a>
-             </li>
+            <a class="nav-link " data-target=".navbar-collapse" href="#testimonials">Testimonials</a>
+        </li>
         <li class="nav-item">
-           <a class="nav-link " href="#contact">Contacts </a>
+           <a class="nav-link " data-target=".navbar-collapse" href="#contact">Contacts </a>
         </li>
       </ul>
     </div>
